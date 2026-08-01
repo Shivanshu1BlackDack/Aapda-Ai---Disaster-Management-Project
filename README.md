@@ -101,3 +101,6 @@ http://127.0.0.1:8000/docs
 - Input Sentinel-1 files are expected as two SAR bands shaped like `(2, H, W)`.
 - Mask labels use `1` for flood, `0` for non-flood, and `-1` for ignored/unlabeled pixels.
 - Weak masks are optional because they are noisier than hand labels.
+
+##Website Link
+[Aapda AI](https://aapda-ai-disaster-management-projec.vercel.app/)
